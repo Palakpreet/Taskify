@@ -3,6 +3,7 @@ function save1() {
   const data = textarea.value;
   localStorage.setItem("9amdata", data);
 }
+
 function save2() {
   const textarea = document.getElementById("10amdata");
   const data = textarea.value;

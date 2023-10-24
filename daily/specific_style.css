@@ -4,7 +4,6 @@ body {
   line-height: 1;
   background-color: #b4d7f1;
 }
-
 .Main {
   text-align: center;
   background-color: transparent;
@@ -13,11 +12,9 @@ body {
   border-bottom: 10px solid black;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-
 .description {
   white-space: pre-wrap;
 }
-
 .time-block {
   text-align: center;
   border-radius: 15px;
